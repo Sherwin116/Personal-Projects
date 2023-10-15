@@ -1,4 +1,4 @@
-
+-- DATA CLEANING USING SQL	
 
 Select *
 From PortfolioProject1..NashvilleHousing
